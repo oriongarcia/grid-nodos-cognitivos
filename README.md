@@ -21,7 +21,7 @@ Este paquete empaqueta la arquitectura completa (sensores, perfiles, vector db, 
 Puedes consultar `documentation/triangulacion_cognitiva.md` para comprender cómo el Agente combina Contexto Sensorial, Relación Humana y Protocolo de Comunicación antes de responder.
 
 ## Créditos
-Diseñado y construido por **Orión García Sequera** (Ingeniero en Sistemas, responsable técnico) y **Ana Carolina Guerra Rodríguez** (Psicóloga, arquitecta del protocolo humano). Ana aportó el conocimiento emocional y de relación humana; Orión estructuró la arquitectura técnica y las integraciones. Mantén los archivos `documentation/credits.md` y `grid/00-README.md` actualizados con estos nombres para que la autoría viaje con la Skill.
+Diseñado y construido por **Orión García Sequera** (Developer, responsable técnico) y **Ana Carolina Guerra Rodríguez** (Psicóloga, arquitecta del protocolo humano). Ana aportó el conocimiento emocional y de relación humana; Orión estructuró la arquitectura técnica y las integraciones. Mantén los archivos `documentation/credits.md` y `grid/00-README.md` actualizados con estos nombres para que la autoría viaje con la Skill.
 
 ## Licencia
 Esta Skill se publica bajo MIT. El copyright y los créditos originales deben conservarse en todas las copias o forks para proteger la autoría compartida.
