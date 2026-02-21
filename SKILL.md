@@ -12,7 +12,7 @@ Esta skill expone la **arquitectura viva** que hemos construido en el workspace:
 6. `nodo historial <nombre>` — Rescata el resumen de conversaciones almacenadas.
 
 ## Integraciones clave
-- Carpeta `projects/esquema-red-nodos/` → nodos físicos.
+- Carpeta `grid/` → nodos físicos.
 - Documentos `documentation/*` → guía del sistema.
 - Google Tasks/Calendar → acciones definidas para cada nodo.
 - `vector_index.json` → base de datos semántica.

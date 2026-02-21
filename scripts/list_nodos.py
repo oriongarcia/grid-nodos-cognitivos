@@ -1,5 +1,5 @@
 import os
-BASE = os.path.expanduser('~/workspace/projects/esquema-red-nodos')
+BASE = os.path.expanduser('~/workspace/grid')
 for root, dirs, files in os.walk(BASE):
     depth = root.replace(BASE, '').count(os.sep)
     indent = '  ' * depth
